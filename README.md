@@ -10,7 +10,7 @@ Repositório documentando um desafio de projeto **blockchain**: construir um ger
    
 ## Objetivo 
 
-Trabalhar com o desenvolvimento de um gerador de carteiras e realizar transações com bitcoin. Projeto realizado para o curso **"Formação Blockchain Specialist"**, da plataforma [Digital Innovation One](https://www.dio.me/). 
+Trabalhar com o desenvolvimento de um gerador de carteiras e realizar transações com bitcoin. Projeto realizado para o curso **"Formação Blockchain Specialist"**, da plataforma [Digital Innovation One](https://www.dio.me/), sob a orientação do professor Cassiano Peres. 
 
 
 ## Tecnologias 
